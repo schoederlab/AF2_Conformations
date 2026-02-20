@@ -21,7 +21,6 @@ Benchmark info could be find the end of the page.
 For **ColabFold installation and setup**, please refer to the official documentation:
 
 - [ColabFold GitHub Repository](https://github.com/sokrypton/ColabFold)
-- [ColabFold Documentation](https://github.com/sokrypton/ColabFold#colabfold)
 
 This project uses **ColabFold v1.5.2** running on a cluster in batch mode.
 
