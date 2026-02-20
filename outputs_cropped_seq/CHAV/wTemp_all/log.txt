@@ -1,0 +1,314 @@
+2024-03-21 17:14:20,136 Running colabfold 1.5.2 (32359508e7890916a51b1680594418a78162d01c)
+2024-03-21 17:14:29,191 Running on GPU
+2024-03-21 17:14:30,227 Found 8 citations for tools or databases
+2024-03-21 17:14:48,959 WARNING: Found insertion code at chain A and residue index 54 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6wcr.cif. This file cannot be used as a template.
+2024-03-21 17:14:48,960 WARNING: Found insertion code at chain A and residue index 83 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6wcr.cif. This file cannot be used as a template.
+2024-03-21 17:14:48,960 WARNING: Found insertion code at chain A and residue index 95 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6wcr.cif. This file cannot be used as a template.
+2024-03-21 17:14:48,960 WARNING: Found insertion code at chain A and residue index 125 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6wcr.cif. This file cannot be used as a template.
+2024-03-21 17:14:48,960 WARNING: Found insertion code at chain A and residue index 125 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6wcr.cif. This file cannot be used as a template.
+2024-03-21 17:14:48,960 WARNING: Found insertion code at chain A and residue index 125 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6wcr.cif. This file cannot be used as a template.
+2024-03-21 17:14:48,961 WARNING: Found insertion code at chain A and residue index 264 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6wcr.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,783 WARNING: Found insertion code at chain E and residue index 52 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,784 WARNING: Found insertion code at chain E and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,784 WARNING: Found insertion code at chain E and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,784 WARNING: Found insertion code at chain E and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,784 WARNING: Found insertion code at chain E and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,784 WARNING: Found insertion code at chain E and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,784 WARNING: Found insertion code at chain E and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,784 WARNING: Found insertion code at chain E and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,784 WARNING: Found insertion code at chain E and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,784 WARNING: Found insertion code at chain E and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,784 WARNING: Found insertion code at chain E and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,784 WARNING: Found insertion code at chain E and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,785 WARNING: Found insertion code at chain F and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,785 WARNING: Found insertion code at chain F and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,785 WARNING: Found insertion code at chain F and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,785 WARNING: Found insertion code at chain F and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,785 WARNING: Found insertion code at chain F and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,785 WARNING: Found insertion code at chain F and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,785 WARNING: Found insertion code at chain I and residue index 52 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,785 WARNING: Found insertion code at chain I and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,785 WARNING: Found insertion code at chain I and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,786 WARNING: Found insertion code at chain I and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,786 WARNING: Found insertion code at chain I and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,786 WARNING: Found insertion code at chain I and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,786 WARNING: Found insertion code at chain I and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,786 WARNING: Found insertion code at chain I and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,786 WARNING: Found insertion code at chain I and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,786 WARNING: Found insertion code at chain I and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,786 WARNING: Found insertion code at chain I and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,786 WARNING: Found insertion code at chain I and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,786 WARNING: Found insertion code at chain J and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,786 WARNING: Found insertion code at chain J and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,786 WARNING: Found insertion code at chain J and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,786 WARNING: Found insertion code at chain J and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,786 WARNING: Found insertion code at chain J and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,786 WARNING: Found insertion code at chain J and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,787 WARNING: Found insertion code at chain M and residue index 52 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,787 WARNING: Found insertion code at chain M and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,787 WARNING: Found insertion code at chain M and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,787 WARNING: Found insertion code at chain M and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,787 WARNING: Found insertion code at chain M and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,787 WARNING: Found insertion code at chain M and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,787 WARNING: Found insertion code at chain M and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,787 WARNING: Found insertion code at chain M and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,787 WARNING: Found insertion code at chain M and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,787 WARNING: Found insertion code at chain M and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,787 WARNING: Found insertion code at chain M and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,788 WARNING: Found insertion code at chain M and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,788 WARNING: Found insertion code at chain N and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,788 WARNING: Found insertion code at chain N and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,788 WARNING: Found insertion code at chain N and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,788 WARNING: Found insertion code at chain N and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,788 WARNING: Found insertion code at chain N and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,788 WARNING: Found insertion code at chain N and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,788 WARNING: Found insertion code at chain A and residue index 52 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,788 WARNING: Found insertion code at chain A and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,789 WARNING: Found insertion code at chain A and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,789 WARNING: Found insertion code at chain A and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,789 WARNING: Found insertion code at chain A and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,789 WARNING: Found insertion code at chain A and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,789 WARNING: Found insertion code at chain A and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,789 WARNING: Found insertion code at chain A and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,789 WARNING: Found insertion code at chain A and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,789 WARNING: Found insertion code at chain A and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,789 WARNING: Found insertion code at chain A and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,789 WARNING: Found insertion code at chain A and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,789 WARNING: Found insertion code at chain B and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,789 WARNING: Found insertion code at chain B and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,789 WARNING: Found insertion code at chain B and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,789 WARNING: Found insertion code at chain B and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,789 WARNING: Found insertion code at chain B and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:53,789 WARNING: Found insertion code at chain B and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/5hj3.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,769 WARNING: Found insertion code at chain A and residue index 170 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,769 WARNING: Found insertion code at chain A and residue index 170 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,769 WARNING: Found insertion code at chain A and residue index 270 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,770 WARNING: Found insertion code at chain A and residue index 270 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,770 WARNING: Found insertion code at chain A and residue index 291 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,770 WARNING: Found insertion code at chain E and residue index 52 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,770 WARNING: Found insertion code at chain E and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,770 WARNING: Found insertion code at chain E and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,770 WARNING: Found insertion code at chain E and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,770 WARNING: Found insertion code at chain E and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,770 WARNING: Found insertion code at chain E and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,770 WARNING: Found insertion code at chain E and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,770 WARNING: Found insertion code at chain E and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,770 WARNING: Found insertion code at chain E and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,770 WARNING: Found insertion code at chain E and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,770 WARNING: Found insertion code at chain E and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,771 WARNING: Found insertion code at chain B and residue index 170 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,771 WARNING: Found insertion code at chain B and residue index 170 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,771 WARNING: Found insertion code at chain B and residue index 270 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,771 WARNING: Found insertion code at chain B and residue index 270 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,771 WARNING: Found insertion code at chain B and residue index 291 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,771 WARNING: Found insertion code at chain F and residue index 52 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,771 WARNING: Found insertion code at chain F and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,771 WARNING: Found insertion code at chain F and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,771 WARNING: Found insertion code at chain F and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,771 WARNING: Found insertion code at chain F and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,771 WARNING: Found insertion code at chain F and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,771 WARNING: Found insertion code at chain F and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,772 WARNING: Found insertion code at chain F and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,772 WARNING: Found insertion code at chain F and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,772 WARNING: Found insertion code at chain F and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,772 WARNING: Found insertion code at chain F and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,772 WARNING: Found insertion code at chain H and residue index 170 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,772 WARNING: Found insertion code at chain H and residue index 170 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,772 WARNING: Found insertion code at chain H and residue index 270 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,772 WARNING: Found insertion code at chain H and residue index 270 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,772 WARNING: Found insertion code at chain H and residue index 291 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,772 WARNING: Found insertion code at chain K and residue index 52 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,772 WARNING: Found insertion code at chain K and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,772 WARNING: Found insertion code at chain K and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,773 WARNING: Found insertion code at chain K and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,773 WARNING: Found insertion code at chain K and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,773 WARNING: Found insertion code at chain K and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,773 WARNING: Found insertion code at chain K and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,773 WARNING: Found insertion code at chain K and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,773 WARNING: Found insertion code at chain K and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,773 WARNING: Found insertion code at chain K and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:54,773 WARNING: Found insertion code at chain K and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6mlm.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,928 WARNING: Found insertion code at chain A and residue index 55 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,928 WARNING: Found insertion code at chain A and residue index 83 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,928 WARNING: Found insertion code at chain A and residue index 90 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,928 WARNING: Found insertion code at chain A and residue index 116 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,928 WARNING: Found insertion code at chain A and residue index 116 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,928 WARNING: Found insertion code at chain A and residue index 116 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,928 WARNING: Found insertion code at chain A and residue index 133 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,928 WARNING: Found insertion code at chain A and residue index 266 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,929 WARNING: Found insertion code at chain C and residue index 55 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,929 WARNING: Found insertion code at chain C and residue index 83 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,929 WARNING: Found insertion code at chain C and residue index 90 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,929 WARNING: Found insertion code at chain C and residue index 116 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,929 WARNING: Found insertion code at chain C and residue index 116 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,929 WARNING: Found insertion code at chain C and residue index 116 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,929 WARNING: Found insertion code at chain C and residue index 133 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,929 WARNING: Found insertion code at chain C and residue index 266 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,929 WARNING: Found insertion code at chain E and residue index 55 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,930 WARNING: Found insertion code at chain E and residue index 83 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,930 WARNING: Found insertion code at chain E and residue index 90 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,930 WARNING: Found insertion code at chain E and residue index 116 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,930 WARNING: Found insertion code at chain E and residue index 116 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,930 WARNING: Found insertion code at chain E and residue index 116 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,930 WARNING: Found insertion code at chain E and residue index 133 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,930 WARNING: Found insertion code at chain E and residue index 266 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,930 WARNING: Found insertion code at chain G and residue index 55 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,930 WARNING: Found insertion code at chain G and residue index 83 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,930 WARNING: Found insertion code at chain G and residue index 90 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,931 WARNING: Found insertion code at chain G and residue index 116 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,931 WARNING: Found insertion code at chain G and residue index 116 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,931 WARNING: Found insertion code at chain G and residue index 116 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,931 WARNING: Found insertion code at chain G and residue index 133 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,931 WARNING: Found insertion code at chain G and residue index 266 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,931 WARNING: Found insertion code at chain I and residue index 55 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,931 WARNING: Found insertion code at chain I and residue index 83 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,931 WARNING: Found insertion code at chain I and residue index 90 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,931 WARNING: Found insertion code at chain I and residue index 116 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,931 WARNING: Found insertion code at chain I and residue index 116 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,931 WARNING: Found insertion code at chain I and residue index 116 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,931 WARNING: Found insertion code at chain I and residue index 133 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,932 WARNING: Found insertion code at chain I and residue index 266 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,932 WARNING: Found insertion code at chain K and residue index 55 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,932 WARNING: Found insertion code at chain K and residue index 83 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,932 WARNING: Found insertion code at chain K and residue index 90 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,932 WARNING: Found insertion code at chain K and residue index 116 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,932 WARNING: Found insertion code at chain K and residue index 116 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,932 WARNING: Found insertion code at chain K and residue index 116 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,932 WARNING: Found insertion code at chain K and residue index 133 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:55,932 WARNING: Found insertion code at chain K and residue index 266 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3ubj.cif. This file cannot be used as a template.
+2024-03-21 17:14:56,774 WARNING: Found insertion code at chain A and residue index 19 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3s12.cif. This file cannot be used as a template.
+2024-03-21 17:14:56,774 WARNING: Found insertion code at chain A and residue index 35 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3s12.cif. This file cannot be used as a template.
+2024-03-21 17:14:56,774 WARNING: Found insertion code at chain A and residue index 53 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3s12.cif. This file cannot be used as a template.
+2024-03-21 17:14:56,774 WARNING: Found insertion code at chain A and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3s12.cif. This file cannot be used as a template.
+2024-03-21 17:14:56,774 WARNING: Found insertion code at chain A and residue index 96 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3s12.cif. This file cannot be used as a template.
+2024-03-21 17:14:56,775 WARNING: Found insertion code at chain A and residue index 125 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3s12.cif. This file cannot be used as a template.
+2024-03-21 17:14:56,775 WARNING: Found insertion code at chain A and residue index 125 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3s12.cif. This file cannot be used as a template.
+2024-03-21 17:14:56,775 WARNING: Found insertion code at chain A and residue index 133 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3s12.cif. This file cannot be used as a template.
+2024-03-21 17:14:56,775 WARNING: Found insertion code at chain A and residue index 264 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3s12.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,047 WARNING: Found insertion code at chain A and residue index 52 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,047 WARNING: Found insertion code at chain A and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,048 WARNING: Found insertion code at chain A and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,048 WARNING: Found insertion code at chain A and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,048 WARNING: Found insertion code at chain A and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,048 WARNING: Found insertion code at chain A and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,048 WARNING: Found insertion code at chain A and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,048 WARNING: Found insertion code at chain A and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,048 WARNING: Found insertion code at chain A and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,048 WARNING: Found insertion code at chain A and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,048 WARNING: Found insertion code at chain A and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,048 WARNING: Found insertion code at chain A and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,048 WARNING: Found insertion code at chain B and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,048 WARNING: Found insertion code at chain B and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,048 WARNING: Found insertion code at chain B and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,048 WARNING: Found insertion code at chain B and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,048 WARNING: Found insertion code at chain B and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,049 WARNING: Found insertion code at chain B and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,049 WARNING: Found insertion code at chain C and residue index 52 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,049 WARNING: Found insertion code at chain C and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,049 WARNING: Found insertion code at chain C and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,049 WARNING: Found insertion code at chain C and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,049 WARNING: Found insertion code at chain C and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,049 WARNING: Found insertion code at chain C and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,049 WARNING: Found insertion code at chain C and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,049 WARNING: Found insertion code at chain C and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,049 WARNING: Found insertion code at chain C and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,049 WARNING: Found insertion code at chain C and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,049 WARNING: Found insertion code at chain C and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,049 WARNING: Found insertion code at chain C and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,050 WARNING: Found insertion code at chain D and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,050 WARNING: Found insertion code at chain D and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,050 WARNING: Found insertion code at chain D and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,050 WARNING: Found insertion code at chain D and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,050 WARNING: Found insertion code at chain D and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,050 WARNING: Found insertion code at chain D and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,050 WARNING: Found insertion code at chain E and residue index 52 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,050 WARNING: Found insertion code at chain E and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,050 WARNING: Found insertion code at chain E and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,050 WARNING: Found insertion code at chain E and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,050 WARNING: Found insertion code at chain E and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,050 WARNING: Found insertion code at chain E and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,050 WARNING: Found insertion code at chain E and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,050 WARNING: Found insertion code at chain E and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,051 WARNING: Found insertion code at chain E and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,051 WARNING: Found insertion code at chain E and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,051 WARNING: Found insertion code at chain E and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,051 WARNING: Found insertion code at chain E and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,051 WARNING: Found insertion code at chain F and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,051 WARNING: Found insertion code at chain F and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,051 WARNING: Found insertion code at chain F and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,051 WARNING: Found insertion code at chain F and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,051 WARNING: Found insertion code at chain F and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,051 WARNING: Found insertion code at chain F and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,051 WARNING: Found insertion code at chain G and residue index 52 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,051 WARNING: Found insertion code at chain G and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,051 WARNING: Found insertion code at chain G and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,052 WARNING: Found insertion code at chain G and residue index 82 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,052 WARNING: Found insertion code at chain G and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,052 WARNING: Found insertion code at chain G and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,052 WARNING: Found insertion code at chain G and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,052 WARNING: Found insertion code at chain G and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,052 WARNING: Found insertion code at chain G and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,052 WARNING: Found insertion code at chain G and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,052 WARNING: Found insertion code at chain G and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,052 WARNING: Found insertion code at chain G and residue index 100 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,052 WARNING: Found insertion code at chain H and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,052 WARNING: Found insertion code at chain H and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,052 WARNING: Found insertion code at chain H and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,052 WARNING: Found insertion code at chain H and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,052 WARNING: Found insertion code at chain H and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,052 WARNING: Found insertion code at chain H and residue index 27 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/3csy.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,382 WARNING: Found insertion code at chain H and residue index 111 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6p91.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,382 WARNING: Found insertion code at chain H and residue index 112 of /home/sc.uni-leipzig.de/mh685pale/ColabFold/AF2.3_CTemp/templates/for_CHAV/cifs/6p91.cif. This file cannot be used as a template.
+2024-03-21 17:14:58,386 Query 1/1: CHAVB-2003 (length 519)
+2024-03-21 17:14:59,354 Sleeping for 9s. Reason: PENDING
+2024-03-21 17:15:09,258 Sleeping for 6s. Reason: RUNNING
+2024-03-21 17:15:16,126 Sleeping for 8s. Reason: RUNNING
+2024-03-21 17:15:25,021 Sleeping for 9s. Reason: RUNNING
+2024-03-21 17:15:41,698 Sequence 0 found templates: ['7s8h_a', '8ejd_c', '8ejd_c', '8ejd_c', '8ejf_a', '8ejf_a', '8ejf_a', '6p91_a', '5vk2_a', '5vk2_c', '5vk2_a', '7ul7_c', '7ul7_b', '7ul7_a', '5omi_C', '5omi_A', '5omi_B', '6jgy_A']
+2024-03-21 17:15:41,716 Setting max_seq=262, max_extra_seq=1
+2024-03-21 17:16:25,439 alphafold2_multimer_v3_model_1_seed_000 recycle=0 pLDDT=46.1 pTM=0.291 ipTM=0.127
+2024-03-21 17:16:36,914 alphafold2_multimer_v3_model_1_seed_000 recycle=1 pLDDT=43.2 pTM=0.254 ipTM=0.107 tol=10.4
+2024-03-21 17:16:48,562 alphafold2_multimer_v3_model_1_seed_000 recycle=2 pLDDT=42 pTM=0.272 ipTM=0.139 tol=3.06
+2024-03-21 17:17:00,026 alphafold2_multimer_v3_model_1_seed_000 recycle=3 pLDDT=45.8 pTM=0.314 ipTM=0.255 tol=3.48
+2024-03-21 17:17:11,473 alphafold2_multimer_v3_model_1_seed_000 recycle=4 pLDDT=43.5 pTM=0.283 ipTM=0.186 tol=0.939
+2024-03-21 17:17:22,913 alphafold2_multimer_v3_model_1_seed_000 recycle=5 pLDDT=46.4 pTM=0.324 ipTM=0.212 tol=1.47
+2024-03-21 17:17:22,978 alphafold2_multimer_v3_model_1_seed_000 took 98.6s (5 recycles)
+2024-03-21 17:17:34,649 alphafold2_multimer_v3_model_2_seed_000 recycle=0 pLDDT=48.1 pTM=0.311 ipTM=0.137
+2024-03-21 17:17:46,119 alphafold2_multimer_v3_model_2_seed_000 recycle=1 pLDDT=45.2 pTM=0.31 ipTM=0.211 tol=12.1
+2024-03-21 17:17:57,567 alphafold2_multimer_v3_model_2_seed_000 recycle=2 pLDDT=48.5 pTM=0.384 ipTM=0.27 tol=1.16
+2024-03-21 17:18:09,012 alphafold2_multimer_v3_model_2_seed_000 recycle=3 pLDDT=47.1 pTM=0.354 ipTM=0.252 tol=0.39
+2024-03-21 17:18:09,063 alphafold2_multimer_v3_model_2_seed_000 took 45.8s (3 recycles)
+2024-03-21 17:18:20,736 alphafold2_multimer_v3_model_3_seed_000 recycle=0 pLDDT=48.5 pTM=0.285 ipTM=0.111
+2024-03-21 17:18:32,236 alphafold2_multimer_v3_model_3_seed_000 recycle=1 pLDDT=45.7 pTM=0.268 ipTM=0.104 tol=7.75
+2024-03-21 17:18:43,857 alphafold2_multimer_v3_model_3_seed_000 recycle=2 pLDDT=44.1 pTM=0.254 ipTM=0.109 tol=2.77
+2024-03-21 17:18:55,339 alphafold2_multimer_v3_model_3_seed_000 recycle=3 pLDDT=43.9 pTM=0.261 ipTM=0.113 tol=4.93
+2024-03-21 17:19:06,811 alphafold2_multimer_v3_model_3_seed_000 recycle=4 pLDDT=47 pTM=0.294 ipTM=0.185 tol=4.36
+2024-03-21 17:19:18,286 alphafold2_multimer_v3_model_3_seed_000 recycle=5 pLDDT=47.4 pTM=0.3 ipTM=0.177 tol=1.02
+2024-03-21 17:19:18,346 alphafold2_multimer_v3_model_3_seed_000 took 69.0s (5 recycles)
+2024-03-21 17:19:30,027 alphafold2_multimer_v3_model_4_seed_000 recycle=0 pLDDT=48.4 pTM=0.286 ipTM=0.112
+2024-03-21 17:19:41,504 alphafold2_multimer_v3_model_4_seed_000 recycle=1 pLDDT=45 pTM=0.268 ipTM=0.122 tol=8.3
+2024-03-21 17:19:52,952 alphafold2_multimer_v3_model_4_seed_000 recycle=2 pLDDT=46.8 pTM=0.297 ipTM=0.178 tol=5.58
+2024-03-21 17:20:04,421 alphafold2_multimer_v3_model_4_seed_000 recycle=3 pLDDT=46.1 pTM=0.297 ipTM=0.186 tol=1.97
+2024-03-21 17:20:16,033 alphafold2_multimer_v3_model_4_seed_000 recycle=4 pLDDT=51 pTM=0.361 ipTM=0.246 tol=1.02
+2024-03-21 17:20:27,502 alphafold2_multimer_v3_model_4_seed_000 recycle=5 pLDDT=51.2 pTM=0.366 ipTM=0.261 tol=0.171
+2024-03-21 17:20:27,553 alphafold2_multimer_v3_model_4_seed_000 took 68.9s (5 recycles)
+2024-03-21 17:20:39,210 alphafold2_multimer_v3_model_5_seed_000 recycle=0 pLDDT=42.3 pTM=0.308 ipTM=0.155
+2024-03-21 17:20:51,070 alphafold2_multimer_v3_model_5_seed_000 recycle=1 pLDDT=40.9 pTM=0.27 ipTM=0.194 tol=10.6
+2024-03-21 17:21:02,909 alphafold2_multimer_v3_model_5_seed_000 recycle=2 pLDDT=39.7 pTM=0.272 ipTM=0.147 tol=2.11
+2024-03-21 17:21:14,387 alphafold2_multimer_v3_model_5_seed_000 recycle=3 pLDDT=39.3 pTM=0.265 ipTM=0.142 tol=0.67
+2024-03-21 17:21:25,859 alphafold2_multimer_v3_model_5_seed_000 recycle=4 pLDDT=39.4 pTM=0.277 ipTM=0.185 tol=1.12
+2024-03-21 17:21:37,323 alphafold2_multimer_v3_model_5_seed_000 recycle=5 pLDDT=39 pTM=0.271 ipTM=0.174 tol=0.316
+2024-03-21 17:21:37,374 alphafold2_multimer_v3_model_5_seed_000 took 69.6s (5 recycles)
+2024-03-21 17:21:37,630 reranking models by 'multimer' metric
+2024-03-21 17:21:39,166 Warning: importing 'simtk.openmm' is deprecated.  Import 'openmm' instead.
+2024-03-21 17:22:01,795 Relaxation took 24.2s
+2024-03-21 17:22:01,795 rank_001_alphafold2_multimer_v3_model_4_seed_000 pLDDT=51.2 pTM=0.366 ipTM=0.261
+2024-03-21 17:22:58,535 Relaxation took 56.7s
+2024-03-21 17:22:58,535 rank_002_alphafold2_multimer_v3_model_2_seed_000 pLDDT=47.1 pTM=0.354 ipTM=0.252
+2024-03-21 17:23:20,977 Relaxation took 22.4s
+2024-03-21 17:23:20,977 rank_003_alphafold2_multimer_v3_model_1_seed_000 pLDDT=46.4 pTM=0.324 ipTM=0.212
+2024-03-21 17:24:07,447 Relaxation took 46.5s
+2024-03-21 17:24:07,447 rank_004_alphafold2_multimer_v3_model_3_seed_000 pLDDT=47.4 pTM=0.3 ipTM=0.177
+2024-03-21 17:24:34,919 Relaxation took 27.5s
+2024-03-21 17:24:34,919 rank_005_alphafold2_multimer_v3_model_5_seed_000 pLDDT=39 pTM=0.271 ipTM=0.174
+2024-03-21 17:24:36,746 Done

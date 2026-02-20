@@ -1,0 +1,62 @@
+2024-03-20 13:35:59,593 Running colabfold 1.5.2 (32359508e7890916a51b1680594418a78162d01c)
+2024-03-20 13:36:02,298 Running on GPU
+2024-03-20 13:36:02,851 Found 8 citations for tools or databases
+2024-03-20 13:36:02,852 Query 1/1: RSV_strainA2_4MMS_3RKI (length 1389)
+2024-03-20 13:36:03,715 Sleeping for 9s. Reason: PENDING
+2024-03-20 13:36:13,622 Sleeping for 5s. Reason: RUNNING
+2024-03-20 13:36:19,506 Sleeping for 9s. Reason: RUNNING
+2024-03-20 13:36:29,421 Sleeping for 8s. Reason: RUNNING
+2024-03-20 13:36:38,289 Sleeping for 10s. Reason: RUNNING
+2024-03-20 13:42:28,927 Sequence 0 found templates: ['4mmu_A', '4mms_E', '6ous_I', '6q0s_F', '7uja_P', '5udd_D', '5tpn_A', '5c69_A', '5c6b_F', '6eae_F', '5k6f_F', '5k6i_F', '5k6c_F', '5k6b_F', '5k6h_F', '6eah_A', '6ead_F', '6ean_F', '5ea8_F', '6dc3_F']
+2024-03-20 13:42:45,509 Sequence 1 found templates: ['5l1x_J', '5wb0_F', '7m0i_J', '6apd_A', '7lvw_F', '6apd_C', '7lvw_E', '7mpg_B', '5tok_A', '5toj_C', '7lvw_A', '4jhw_F', '5tpn_A', '4mmr_B', '6ous_B', '6dc3_F', '5udc_A', '6ous_L', '5w23_A', '4mmv_B']
+2024-03-20 13:42:46,404 Sleeping for 6s. Reason: PENDING
+2024-03-20 13:42:53,274 Sleeping for 7s. Reason: RUNNING
+2024-03-20 13:43:01,154 Sleeping for 7s. Reason: RUNNING
+2024-03-20 13:43:09,082 Sleeping for 10s. Reason: RUNNING
+2024-03-20 13:43:20,016 Sleeping for 5s. Reason: RUNNING
+2024-03-20 13:43:25,903 Sleeping for 10s. Reason: RUNNING
+2024-03-20 13:43:38,076 Sleeping for 9s. Reason: RUNNING
+2024-03-20 13:43:47,990 Sleeping for 5s. Reason: RUNNING
+2024-03-20 13:43:53,873 Sleeping for 9s. Reason: RUNNING
+2024-03-20 13:44:03,760 Sleeping for 6s. Reason: RUNNING
+2024-03-20 13:44:11,593 Setting max_seq=368, max_extra_seq=1
+2024-03-20 13:46:31,233 alphafold2_multimer_v3_model_1_seed_000 recycle=0 pLDDT=54.5 pTM=0.316 ipTM=0.234
+2024-03-20 13:48:18,619 alphafold2_multimer_v3_model_1_seed_000 recycle=1 pLDDT=69.6 pTM=0.545 ipTM=0.472 tol=13.8
+2024-03-20 13:50:06,965 alphafold2_multimer_v3_model_1_seed_000 recycle=2 pLDDT=89.6 pTM=0.912 ipTM=0.899 tol=1.68
+2024-03-20 13:51:54,943 alphafold2_multimer_v3_model_1_seed_000 recycle=3 pLDDT=92.9 pTM=0.939 ipTM=0.932 tol=0.256
+2024-03-20 13:51:55,091 alphafold2_multimer_v3_model_1_seed_000 took 460.5s (3 recycles)
+2024-03-20 13:53:43,919 alphafold2_multimer_v3_model_2_seed_000 recycle=0 pLDDT=59.4 pTM=0.375 ipTM=0.317
+2024-03-20 13:55:31,802 alphafold2_multimer_v3_model_2_seed_000 recycle=1 pLDDT=66 pTM=0.378 ipTM=0.303 tol=7.32
+2024-03-20 13:57:19,523 alphafold2_multimer_v3_model_2_seed_000 recycle=2 pLDDT=84.3 pTM=0.851 ipTM=0.816 tol=16.5
+2024-03-20 13:59:07,335 alphafold2_multimer_v3_model_2_seed_000 recycle=3 pLDDT=90.3 pTM=0.911 ipTM=0.894 tol=0.34
+2024-03-20 13:59:07,480 alphafold2_multimer_v3_model_2_seed_000 took 430.9s (3 recycles)
+2024-03-20 14:00:56,425 alphafold2_multimer_v3_model_3_seed_000 recycle=0 pLDDT=69.1 pTM=0.41 ipTM=0.312
+2024-03-20 14:02:44,295 alphafold2_multimer_v3_model_3_seed_000 recycle=1 pLDDT=72.4 pTM=0.406 ipTM=0.306 tol=11.3
+2024-03-20 14:04:32,605 alphafold2_multimer_v3_model_3_seed_000 recycle=2 pLDDT=78.5 pTM=0.515 ipTM=0.451 tol=4.07
+2024-03-20 14:06:20,341 alphafold2_multimer_v3_model_3_seed_000 recycle=3 pLDDT=81.2 pTM=0.544 ipTM=0.497 tol=1.11
+2024-03-20 14:08:08,213 alphafold2_multimer_v3_model_3_seed_000 recycle=4 pLDDT=79.7 pTM=0.473 ipTM=0.418 tol=1.21
+2024-03-20 14:09:56,455 alphafold2_multimer_v3_model_3_seed_000 recycle=5 pLDDT=79 pTM=0.465 ipTM=0.407 tol=0.726
+2024-03-20 14:09:56,590 alphafold2_multimer_v3_model_3_seed_000 took 647.7s (5 recycles)
+2024-03-20 14:11:45,596 alphafold2_multimer_v3_model_4_seed_000 recycle=0 pLDDT=58.8 pTM=0.355 ipTM=0.236
+2024-03-20 14:13:33,756 alphafold2_multimer_v3_model_4_seed_000 recycle=1 pLDDT=85.9 pTM=0.878 ipTM=0.87 tol=17.2
+2024-03-20 14:15:21,638 alphafold2_multimer_v3_model_4_seed_000 recycle=2 pLDDT=88.6 pTM=0.889 ipTM=0.879 tol=1.92
+2024-03-20 14:17:09,583 alphafold2_multimer_v3_model_4_seed_000 recycle=3 pLDDT=91.3 pTM=0.923 ipTM=0.911 tol=0.576
+2024-03-20 14:18:57,709 alphafold2_multimer_v3_model_4_seed_000 recycle=4 pLDDT=93 pTM=0.938 ipTM=0.929 tol=0.0917
+2024-03-20 14:18:57,854 alphafold2_multimer_v3_model_4_seed_000 took 539.8s (4 recycles)
+2024-03-20 14:20:46,555 alphafold2_multimer_v3_model_5_seed_000 recycle=0 pLDDT=67.9 pTM=0.546 ipTM=0.479
+2024-03-20 14:22:34,453 alphafold2_multimer_v3_model_5_seed_000 recycle=1 pLDDT=90.6 pTM=0.924 ipTM=0.916 tol=2.49
+2024-03-20 14:24:22,630 alphafold2_multimer_v3_model_5_seed_000 recycle=2 pLDDT=92.5 pTM=0.938 ipTM=0.929 tol=0.407
+2024-03-20 14:24:22,777 alphafold2_multimer_v3_model_5_seed_000 took 323.5s (2 recycles)
+2024-03-20 14:24:24,224 reranking models by 'multimer' metric
+2024-03-20 14:24:30,205 Warning: importing 'simtk.openmm' is deprecated.  Import 'openmm' instead.
+2024-03-20 14:25:38,684 Relaxation took 74.5s
+2024-03-20 14:25:38,684 rank_001_alphafold2_multimer_v3_model_1_seed_000 pLDDT=92.9 pTM=0.939 ipTM=0.932
+2024-03-20 14:26:27,457 Relaxation took 48.8s
+2024-03-20 14:26:27,457 rank_002_alphafold2_multimer_v3_model_5_seed_000 pLDDT=92.5 pTM=0.938 ipTM=0.929
+2024-03-20 14:27:21,637 Relaxation took 54.2s
+2024-03-20 14:27:21,637 rank_003_alphafold2_multimer_v3_model_4_seed_000 pLDDT=93 pTM=0.938 ipTM=0.929
+2024-03-20 14:28:07,521 Relaxation took 45.9s
+2024-03-20 14:28:07,521 rank_004_alphafold2_multimer_v3_model_2_seed_000 pLDDT=90.3 pTM=0.911 ipTM=0.894
+2024-03-20 14:29:08,673 Relaxation took 61.1s
+2024-03-20 14:29:08,673 rank_005_alphafold2_multimer_v3_model_3_seed_000 pLDDT=79 pTM=0.465 ipTM=0.407
+2024-03-20 14:29:13,187 Done
